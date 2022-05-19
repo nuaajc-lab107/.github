@@ -7,3 +7,12 @@
 
 实验室相关信息请查阅[information仓库](https://github.com/nuaajc-lab107/information)
 
+## 上传规范
+大概遵守下   
+- 名字随便起，别重名就行
+- 在备注中备注类型
+  - 竞赛还是课设还是其他什么
+  - 年份
+  - readme也记得稍微写点
+
+不然回头就真成翻屎山了（
